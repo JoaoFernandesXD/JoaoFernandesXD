@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/joao-fernandes-733235108/"><i>João Fernandes</i></a> 😃️</h1>
-  <p align="center">Atualmente estou estudando  Desenvolvimento Web<p>
+  <p align="center">Atualmente estou estudando Engenharia de Dados<p>
   <p align="center">Sou formado em Tecnico em informatica pela Instituição Etec deputado salim sedeh 😉️</h2>
 </div>
 
