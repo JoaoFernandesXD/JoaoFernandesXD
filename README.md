@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando na [Napp Solutions] como Analista de Integração ETL Junior, onde utilizo as tecnologias SQL, Python, Airflow e Docker.
 
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, Python**
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, Python, Airflow, Docker, Linux**
 
 ## Sobre Mim
 
