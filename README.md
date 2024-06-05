@@ -1,5 +1,5 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou João Fernandes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Visualizações de perfil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaofernandesxd&color=yellow" alt="Visualizações de perfil" /> </p>
 
 - 🔥 Desenvolvedor Web Júnior
 
