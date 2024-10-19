@@ -1,16 +1,32 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou João Fernandes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaofernandesxd&color=yellow" alt="Visualizações de perfil" /> </p>
+# Luan Silva - Desenvolvedor Front-End
 
-- 🔥 Desenvolvedor Web Júnior
+[![Linkedin Badge](https://img.shields.io/badge/-Luan%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaofernandesxd/)](https://www.linkedin.com/in/joaofernandesxd/) 
+[![Gmail Badge](https://img.shields.io/badge/-luansilvae27@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=joaofernandesxd1@icloud)](mailto:joaofernandesxd1@icloud.com)
 
-- 🔭 Atualmente estou trabalhando na [Napp Solutions] como Analista de Integração ETL Junior, onde utilizo as tecnologias SQL, Python, Airflow e Docker.
-
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, Python, Airflow, Docker, Linux**
-
-## Sobre Mim
-
-Sou um profissional com experiência em elaboração de consultas SQL em diferentes plataformas de banco de dados para manipular e extrair informações relevantes. Possuo expertise em scraping de dados utilizando diversas bibliotecas, como Selenium, Requests e Playwright, empregando tanto Python quanto JavaScript, além de SQL conforme necessário.
-
-Tenho habilidade em extrair dados de APIs e arquivos em vários formatos, incluindo CSV, TXT e XLSX, garantindo a integridade e utilidade dos dados coletados. 
-
-Atualmente estou buscando uma transição para a área de front-end, onde venho estudando para aprimorar minhas habilidades. Estou matriculado no curso de Análise e Desenvolvimento de Sistemas na instituição **ANHANGUERA EDUCACIONAL**.
+- 💼 <samp>Desenvolvedor Front-End.
+- 📝 <samp>Estudando Typescript, React, Vue.
+- 🎓 <samp>Técnico em Informática.
+- 🎓 <samp>Análise e Desenvolvimento de Sistemas.
+ 
+<div>
+  <img  width="250px"  align="top" src="https://github-readme-stats-gamma-beige.vercel.app/api/top-langs/?username=luansilvae&theme=omni" />
+  <img  width="450px"  align="top" src="https://github-readme-stats.vercel.app/api?username=luansilvae&show_icons=true&count_private=true&theme=omni" />
+</div>
+   
+<div>
+  </br>
+  <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luan-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Luan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Luan-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Luan-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Luan-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Luan-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Luan-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Luan-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Luan-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Luan-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+</div>
