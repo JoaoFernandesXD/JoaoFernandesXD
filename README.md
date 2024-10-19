@@ -1,7 +1,7 @@
 # João Fernandes - Desenvolvedor Front-End
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaofernandesxd/)](https://www.linkedin.com/in/joaofernandesxd/) 
-[![Gmail Badge](https://img.shields.io/badge/-Joaosilvae27@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=joaofernandesxd1@icloud)](mailto:joaofernandesxd1@icloud.com)
+[![Gmail Badge](https://img.shields.io/badge/-joaofernandesxd1@icloud.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=joaofernandesxd1@icloud)](mailto:joaofernandesxd1@icloud.com)
 
 - 💼 <samp>Desenvolvedor Front-End.
 - 📝 <samp>Estudando Typescript, React, Vue.
