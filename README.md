@@ -1,6 +1,6 @@
 # João Fernandes - Desenvolvedor Front-End
 
-[![Linkedin Badge](https://img.shields.io/badge/-Joao Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaofernandesxd/)](https://www.linkedin.com/in/joaofernandesxd/) 
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaofernandesxd/)](https://www.linkedin.com/in/joaofernandesxd/) 
 [![Gmail Badge](https://img.shields.io/badge/-joaofernandesxd1@icloud.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=joaofernandesxd1@icloud)](mailto:joaofernandesxd1@icloud.com)
 
 - 💼 <samp>Desenvolvedor Front-End.
