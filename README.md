@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-joaofernandesxd1@icloud.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=joaofernandesxd1@icloud)](mailto:joaofernandesxd1@icloud.com)
 
 - 💼 <samp>Desenvolvedor Front-End.
-- 📝 <samp>Estudando Typescript, React, Vue.
+- 📝 <samp>Estudando HTML, CSS, Javascript, Typescript e React.
 - 🎓 <samp>Técnico em Informática.
 - 🎓 <samp>Análise e Desenvolvimento de Sistemas.
  
