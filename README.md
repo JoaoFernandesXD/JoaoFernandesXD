@@ -6,7 +6,7 @@
 - 💼 <samp>Desenvolvedor Front-End.
 - 📝 <samp>Estudando HTML, CSS, Javascript, Typescript e React.
 - 🎓 <samp>Técnico em Informática.
-- 🎓 <samp>Análise e Desenvolvimento de Sistemas.
+- 🎓 <samp>Cursando Ciencia da computação na FATECE | Faculdade de Tecnologia, Ciência e Educação.
  
 <div>
   <img  width="250px"  align="top" src="https://github-readme-stats-gamma-beige.vercel.app/api/top-langs/?username=joaofernandesxd&theme=omni" />
